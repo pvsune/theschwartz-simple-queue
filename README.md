@@ -1,5 +1,5 @@
 # Simple Queuing Spike App using TheSchwartz
-This PERL App is created as an experiment in implementing a simple queuing service for PopSlide. It is still under-development; see **TODOs** below.
+This PERL App is created as an experiment in implementing a simple queuing service for [PopSlide](http://www.popslide.me/). It is still under-development; see **TODOs** below.
 
 ## Set-up ##
 1. Clone this repository on your local dev environment.
