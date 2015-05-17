@@ -19,7 +19,7 @@ This PERL App is created as an experiment in implementing a simple queuing servi
   * Mass job insertion (sort of like stress test) to check if it will handle it efficiently.
   * Simulate failed job scenario if *retry job* is occuring.
 2. Implement logging mechanism for debugs, errors, success job scenarios.
-3. Daemonize the worker script (looking at [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager).
+3. Daemonize the worker script (looking at [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager)).
 
 ## License ##
 Copyright (C) Philamer V. Sune.
