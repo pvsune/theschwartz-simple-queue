@@ -4,8 +4,7 @@ This PERL App is created as an experiment in implementing a simple queuing servi
 ## Set-up ##
 1. Clone this repository on your local dev environment.
 2. Install modules from *CPAN*.
-  * `cpanm TheSchwartz`
-  * `cpanm Config::FromHash`
+  * `cpanm TheSchwartz Config::FromHash`
   * or if you use dependency management, add them in *cpanfile*
 3. Edit `config.pl` with your database credentials.
 4. Create database `ts_db` on your local mysql server with this [schema](https://metacpan.org/source/JFEARN/TheSchwartz-1.12/doc/schema.sql)
