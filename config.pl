@@ -3,7 +3,7 @@
 		{
 			dsn => 'dbi:mysql:ts_db:localhost',
 			user => 'root', 
-			pass => 'pbsune7275',
+			pass => '',
 		},
 	],
 	msg => [
